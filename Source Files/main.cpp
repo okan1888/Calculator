@@ -1,4 +1,4 @@
-﻿// main.cpp : Defines the entry point for the console calculator application composed based on the book "C++ in Action"
+﻿// main.cpp : Defines the entry point for the console calculator application
 // you can use the project for educational purposes.
 // Okan Karadağ 2017
 
